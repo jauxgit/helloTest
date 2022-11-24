@@ -16,7 +16,6 @@ git reset <filename>
 git reset --hard <commit>
 ```
 
-![image-20221124155234256](C:\Users\Santa\AppData\Roaming\Typora\typora-user-images\image-20221124155234256.png)
 
 #### 3、将暂存区的文件提交到版本库
 
@@ -39,9 +38,7 @@ git log
 - 添加远程仓库
 
   `git remote add <name> <url >`
-
-  ![image-20221124161005302](C:\Users\Santa\AppData\Roaming\Typora\typora-user-images\image-20221124161005302.png)
-
+ 
 #### 6、克隆仓库
 
 ```
